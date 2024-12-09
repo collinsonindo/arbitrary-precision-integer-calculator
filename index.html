@@ -7,6 +7,26 @@
     <script src="./script.js" defer></script>
 </head>
 <body>
-
+    <div class="calculator">
+        <h1>Arbitrary Precision Calculator</h1>
+        <div class="input-group">
+            <label for="num1">Number 1:</label>
+            <input type="text" id="num1" placeholder="Enter the first number">
+        </div>
+        <div class="input-group">
+            <label for="num2">Number 2:</label>
+            <input type="text" id="num2" placeholder="Enter the second number">
+        </div>
+        <div class="input-group">
+            <label for="operation">Operation:</label>
+            <select id="operation">
+                <option value="add">Addition</option>
+                <option value="subtract">Subtraction</option>
+                <option value="multiply">Multiplication</option>
+            </select>
+        </div>
+        <button id="calculate">Calculate</button>
+        <div id="result" class="result"></div>
+    </div>
 </body>
 </html>
