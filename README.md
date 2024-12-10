@@ -1,4 +1,4 @@
-# Arbitrary Precision Calculator
+# Arbitrary Precision Integer Calculator
 
 A web-based calculator for performing operations on arbitrarily large integers. It supports basic arithmetic and advanced operations such as division, modulo, exponentiation, and factorial, all implemented without relying on external libraries.
 
@@ -113,4 +113,4 @@ This project is also my submission into The Pesapal Junior Programmer Challenge 
 
 --- 
 
-Enjoy using the Arbitrary Precision Calculator! 
+Enjoy using the Arbitrary Precision Integer Calculator! 
