@@ -77,7 +77,7 @@ Number 2: (Leave blank)
 | **Division**  | Performs integer division.              | `12345`                  | `123`                    | `100`                      |
 | **Modulo**    | Returns the remainder of division.      | `12345`                  | `123`                    | `45`                       |
 | **Exponentiation** | Raises the first number to the power of the second. | `2`                      | `10`                     | `1024`                     |
-| **Factorial** | Computes the factorial of a number.     | `10`                     | (Leave blank)            | `3628800`                  |
+| **Factorial** | Computes the factorial of a number.     | `10`                     |             | `3628800`                  |
 
 ---
 
