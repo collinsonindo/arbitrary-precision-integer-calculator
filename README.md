@@ -115,17 +115,4 @@ Number 2: (Leave blank)
 ## Acknowledgments
 
 - This project was inspired by the challenge of overcoming JavaScript's precision limitations and is built entirely from scratch without external libraries.
-- This project is also my submission for The Pesapal Junior Programmer Challenge '24.
-
---- 
-
-## Additional Questions
-
-### 1. What do you love most about computing?
-
-Computing offers great opportunities for creativity and innovation. Creating high-quality computing solutions is a highly creative activity, and computing supports creative work in many other fields. The best solutions in computing exhibit high levels of elegance and beauty.
-
-### 2. If you could meet any scientist or engineer who died before A.D. 2000, whom would you choose, and why?
-
-I would choose to meet Alan Turing. His groundbreaking work in theoretical computer science laid the foundation for modern computing and artificial intelligence. Turing's development of the concept of the "Turing machine" and his contributions to breaking the Enigma code during World War II showcase his brilliance and determination. I am inspired by his ability to apply abstract mathematical concepts to real-world problems and his vision for what machines could achieve. Meeting him would provide an incredible opportunity to learn from one of the greatest minds in computing history and to discuss his perspectives on the future of technology.
 
